@@ -1,5 +1,3 @@
-Olá, eu sou o Copilot, um assistente de inteligência artificial. Eu posso te ajudar a reescrever o seu texto usando markdown, que é uma linguagem de marcação simples e fácil de usar. Veja como ficaria o seu texto:
-
 # Significância estatística, valor p, erros tipo 1 e tipo 2
 
 A estatística é uma ciência que nos ajuda a entender e interpretar os dados, usando métodos e ferramentas matemáticas. Uma das aplicações mais comuns da estatística é a realização de testes de hipóteses, que são procedimentos para verificar se uma afirmação sobre a população é verdadeira ou falsa, com base em uma amostra de dados.
